@@ -1,20 +1,20 @@
-# fris-r-hjemmeside
+# frisør hjemmeside
 Hjemmeside til Salon Vesterbro
 
+- Projekt beskrivelse
 
-Projekt beskrivelse
-
-Hvad vil du lave?
+- Hvad vil du lave?
 Jeg vil udarbejde en virksomheds hjemmeside til min egen frisør, Salon Vesterbro i Odense.
 
-Hvordan vil du lave det?
+- Hvordan vil du lave det?
 Jeg vil lave hjemmesiden med HTML, CSS og JS. 
 Siden skal være en one-page til at starte med, med muligheder for en eller flere undersider til booking af tider eller lign.
+Siden skal derudover nyttig information, indeholde billeder, kontaktformular og links til sociale medier. 
 
-Wireframe
+- Wireframe
 Se figma fil. link her:
 
-Design elementer
+- Design elementer
 Skrifttyper: 'Montserrat', sans-serif - 'Poppins', sans-serif
 Skriftstørrelser: ingen. 
 farver:
