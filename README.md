@@ -14,6 +14,8 @@ Siden skal derudover nyttig information, indeholde billeder, kontaktformular og 
 - Wireframe
 Se figma fil. link her:
 
+!Specifikationer!
+
 - Design elementer
 Skrifttyper: 'Montserrat', sans-serif - 'Poppins', sans-serif
 Skriftstørrelser: ingen. 
