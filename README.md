@@ -1,7 +1,7 @@
 # Frisør hjemmeside
 Hjemmeside til Salon Vesterbro
 
-- Projekt beskrivelse
+## Projekt beskrivelse
 
 - Hvad vil du lave?
 Jeg vil udarbejde en virksomheds hjemmeside til min egen frisør, Salon Vesterbro i Odense.
@@ -18,12 +18,21 @@ link til design: https://www.figma.com/file/sQzIwonJxZacHu2KqKhaPC/Salon-vesterb
 
 !Specifikationer!
 
-- Design elementer
+- Styleguide
 Skrifttyper: 'Montserrat', sans-serif - 'Poppins', sans-serif
-Skriftstørrelser: ingen. 
+Skriftstørrelser:
+ * h1 28px
+ * h2 22px
+ * p 1em
+
 farver:
 primary-color: #FBF5F3;
+ * background
 secondary-color: #E28413;
+ * button, footer
 hover-color: darkorange;
+ * button
 dark-color: #000022;
+ * h1,h2,p
 white-color: #fff;
+ * button, footer
