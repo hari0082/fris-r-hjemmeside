@@ -1,4 +1,4 @@
-# frisør hjemmeside
+# Frisør hjemmeside
 Hjemmeside til Salon Vesterbro
 
 - Projekt beskrivelse
@@ -27,4 +27,3 @@ secondary-color: #E28413;
 hover-color: darkorange;
 dark-color: #000022;
 white-color: #fff;
-
