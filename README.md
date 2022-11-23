@@ -12,7 +12,7 @@ Siden skal være en one-page til at starte med, med muligheder for en eller fler
 Siden skal derudover nyttig information, indeholde billeder, kontaktformular og links til sociale medier. 
 
 - Wireframe
-Se figma fil. link her:
+Se figma fil. link her: https://www.figma.com/file/Z3lhMziM6LGjFDycP8p6Dr/wireframe-til-opgave?node-id=0%3A1&t=17yOAkLpIAz47jVc-0
 
 !Specifikationer!
 
