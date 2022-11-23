@@ -25,13 +25,13 @@ Skriftstørrelser:
  * p 1em
 
 farver:
-primary-color: #FBF5F3;
+primary-color: #DBCBBD;
  * background
-secondary-color: #E28413;
+secondary-color: #87431D;
  * button, footer
-hover-color: darkorange;
+hover-color: #C87941;
  * button
-dark-color: #000022;
+dark-color: #290001;
  * h1,h2,p
 white-color: #fff;
  * button, footer
