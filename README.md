@@ -12,8 +12,11 @@ Siden skal være en one-page til at starte med, med muligheder for en eller fler
 Siden skal derudover nyttig information, indeholde billeder, kontaktformular og links til sociale medier. 
 
 - Wireframe
-(Se figma filler her)
+(Se figma fil her)
 link til wireframe her: https://www.figma.com/file/Z3lhMziM6LGjFDycP8p6Dr/wireframe-til-opgave?node-id=0%3A1&t=17yOAkLpIAz47jVc-0
+
+- Sitemap
+link: https://www.figma.com/file/nwUl0JDoKmeO55rq2IWKx6/Sitemap-til-hjemmeside---Salon-Vesterbro?t=HwIxNOTzOIRnJ0Ng-0
 
 !Specifikationer!
 
