@@ -1,4 +1,4 @@
-# Frisør hjemmeside
+## Frisør hjemmeside
 Hjemmeside til Salon Vesterbro
 
 ## Projekt beskrivelse
@@ -20,7 +20,7 @@ Indeholder tekst, billeder, og andre oplysninger om Salonen.
 
 Hele siden skal også laves mobil responsiv.
 
-# Wireframe
+## Wireframe
 (Se figma fil her)
 link til wireframe her: https://www.figma.com/file/Z3lhMziM6LGjFDycP8p6Dr/wireframe-til-opgave?node-id=0%3A1&t=17yOAkLpIAz47jVc-0
 
@@ -29,14 +29,14 @@ link: https://www.figma.com/file/nwUl0JDoKmeO55rq2IWKx6/Sitemap-til-hjemmeside--
 
 !Specifikationer!
 
-# Styleguide
+## Styleguide
 Skrifttyper: 'Montserrat', sans-serif - 'Poppins', sans-serif
 ## Skriftstørrelser:
  * h1 28px
  * h2 22px
  * p 1em
 
-# Farver:
+## Farver:
 primary-color: #DBCBBD;
  * background
 secondary-color: #87431D;
