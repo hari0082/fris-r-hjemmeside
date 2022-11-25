@@ -8,7 +8,8 @@ Jeg vil udarbejde en virksomheds hjemmeside til min egen frisør, Salon Vesterbr
 
 - Hvordan vil du lave det?
 Jeg vil lave hjemmesiden med HTML, CSS og JS. 
-Hjemmesiden skal være simple og lige til at gå til mht booking eller lign. 2-3 undersider til booking, kontakt, og om os. 
+Hjemmesiden skal være simple og let at gå til mht. booking eller lign. 3 undersider til booking, kontakt, og om os.
+
 Siden skal derudover nyttig information, indeholde billeder, galleri slider, links til sociale medier og light/dark mode. 
 
 - Wireframe
