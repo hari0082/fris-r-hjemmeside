@@ -10,6 +10,8 @@ Jeg vil lave hjemmesiden med HTML, CSS og JS.
 Hjemmesiden skal være simple og let at gå til mht. booking eller lign. 3 undersider til booking, kontakt, og om os.
 Siden skal derudover nyttig information, indeholde billeder, galleri slider, links til sociale medier og light/dark mode. 
 
+Hele siden skal også laves mobil responsiv.
+
 ## Forside: 
 Skal indeholde info, CTA knap, galleri silder og en kontaktformular
 ## Booking: 
@@ -17,7 +19,6 @@ Skal indeholde CTA knap, lokation (google maps), og åbningstider.
 ## Om os: 
 Indeholder tekst, billeder, og andre oplysninger om Salonen.
 
-Hele siden skal også laves mobil responsiv.
 
 ## Wireframe
 (Se figma fil her)
