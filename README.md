@@ -2,7 +2,6 @@
 Hjemmeside til Salon Vesterbro
 
 ## Projekt beskrivelse
-
 - Hvad vil du lave?
 Jeg vil udarbejde en virksomheds hjemmeside til min egen frisør, Salon Vesterbro i Odense.
 
