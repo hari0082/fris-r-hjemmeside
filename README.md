@@ -37,12 +37,12 @@ Skrifttyper: 'Montserrat', sans-serif - 'Poppins', sans-serif
 
 ## Farver:
 - primary-color: #DBCBBD;
- * background
+background
 - secondary-color: #87431D;
- * button, footer
+button, footer
 - hover-color: #C87941;
- * button
+button
 - dark-color: #290001;
- * h1,h2,p
+h1,h2,p
 - white-color: #fff;
- * button, footer
+button, footer
