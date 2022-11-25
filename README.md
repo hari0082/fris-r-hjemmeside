@@ -24,11 +24,10 @@ Hele siden skal også laves mobil responsiv.
 (Se figma fil her)
 link til wireframe her: https://www.figma.com/file/Z3lhMziM6LGjFDycP8p6Dr/wireframe-til-opgave?node-id=0%3A1&t=17yOAkLpIAz47jVc-0
 
-## Sitemap
+##Sitemap
 link: https://www.figma.com/file/nwUl0JDoKmeO55rq2IWKx6/Sitemap-til-hjemmeside---Salon-Vesterbro?t=HwIxNOTzOIRnJ0Ng-0
 
-!Specifikationer!
-
+# Specifikationer
 ## Styleguide
 Skrifttyper: 'Montserrat', sans-serif - 'Poppins', sans-serif
 ## Skriftstørrelser:
