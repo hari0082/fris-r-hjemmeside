@@ -40,8 +40,7 @@ Skrifttyper: 'Montserrat', sans-serif - 'Poppins', sans-serif
  * p 1em
 
 ## Farver:
-link: https://colorhunt.co/palette/e6e6e6c5a880532e1c0f0f0f
--
+link: https://colorhunt.co/palette/e6e6e6c5a880532e1c0f0f0f //
 #E6E6E6
 #C5A880
 #532E1C
