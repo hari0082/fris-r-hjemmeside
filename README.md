@@ -7,15 +7,19 @@ Jeg vil udarbejde en virksomheds hjemmeside til min egen frisør, Salon Vesterbr
 
 - Hvordan vil du lave det?
 Jeg vil lave hjemmesiden med HTML, CSS og JS. 
-Hjemmesiden skal være simple og let at gå til mht. booking eller lign. 3 undersider til booking, kontakt, og om os.
-Siden skal derudover nyttig information, indeholde billeder, galleri slider, links til sociale medier og light/dark mode. 
+Hjemmesiden skal være simple og let at gå til mht. booking eller lign. 3 undersider til booking, lokation, og om os/kontakt.
+Siden skal derudover nyttig information, indeholde billeder som galleri slider, kontaktformular, links til sociale medier og light/dark mode. 
 
 Hele siden skal også laves mobil responsiv.
 
 ## Forside: 
 Skal indeholde info, CTA knap, galleri silder og en kontaktformular
-## Booking: 
-Skal indeholde CTA knap, lokation (google maps), og åbningstider.
+## Book: 
+Skal indeholde info + CTA knap.
+
+## Find os: 
+Skal indeholde lokation (google maps), og åbningstider.
+
 ## Om os: 
 Indeholder tekst, billeder, og andre oplysninger om Salonen.
 
@@ -36,13 +40,9 @@ Skrifttyper: 'Montserrat', sans-serif - 'Poppins', sans-serif
  * p 1em
 
 ## Farver:
-* primary-color: #DBCBBD;
-(background)
-* secondary-color: #87431D;
-(button, footer)
-* hover-color: #C87941;
-(button)
-* dark-color: #290001;
-(h1,h2,p)
-* white-color: #fff;
-(button, footer)
+link: https://colorhunt.co/palette/e6e6e6c5a880532e1c0f0f0f
+-
+#E6E6E6
+#C5A880
+#532E1C
+#0F0F0F
