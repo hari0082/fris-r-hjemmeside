@@ -1,0 +1,12 @@
+/* font her */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Poppins:wght@200;600&display=swap');
+
+@import url(variabler.css);
+@import url(base.css);
+@import url(nav.css);
+@import url(header.css);
+@import url(content.css);
+@import url(footer.css);
+@import url(om.css);
+@import url(slider.css);
+@import url(lokation.css);

@@ -1,0 +1,35 @@
+:root {
+    --dark-color: #625757;
+
+    --white-color: #fff;
+
+    --black-color: #000;
+
+    --focus-color: orange;
+}
+
+/* dark/light mode */
+
+:root.light {
+    --primary-color: #F9F9F9;
+
+    --secondary-color: #343434;
+
+    --hover-color: #9D8F8F;
+
+    /* font color */
+
+    --font-color: #625757;
+}
+
+:root.dark {
+    --primary-color: #0F0F0F;
+
+    --secondary-color: #F9F9F9;
+
+    --hover-color: #C5A880;
+
+    /* font color */
+
+    --font-color: #fff;
+}

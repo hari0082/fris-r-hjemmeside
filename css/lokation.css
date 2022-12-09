@@ -1,0 +1,10 @@
+.tid {
+    margin-top: 20px;
+}
+
+.g-maps {
+    display: flex;
+    justify-content: center;
+
+    margin-top: 10px;
+}

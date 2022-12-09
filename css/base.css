@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    background-color: var(--primary-color);
+}
+
+body {
+    color: var(--secondary-color);
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+li {
+    list-style: none;
+    padding: 10px;
+}
+
+/* til iphone skærm */
+@media only screen and (max-width: 700px){
+
+    body {
+        background-color: var(--primary-color);
+        color: var(--secondary-color);
+    }
+    header {
+        background-image: url(/img/skæg3.jpg);
+        background-size: cover;
+        background-position-y: 50%;
+        padding: 25px;
+    }
+    h1 {
+        font-size: 20px;
+    }
+    h2 {
+        font-size: 15px;
+    }
+    p {
+        font-size: 12px;
+    }
+    nav li a{
+        color: var(--font-color);
+    }
+    li a:last-of-type{
+        display: none;
+    }
+    button {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: var(--font-color) 20px;
+
+    }
+    footer {
+        flex-direction: column;
+        margin-top: 3px;
+        z-index: 1000;
+    }
+}

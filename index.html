@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="da" class="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Salon Vesterbro</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <script src="script.js" defer></script>
+    <script src="theme.js" defer></script>
+    <script src="form.js" defer></script>
+  </head>
+  <body>
+    <header id="top" >
+      <button id="dark-btn"><img src="/img/half-icon2.png" alt="dark mode"></button>
+      <img id="logo-top" src="/img/logo-removebg-preview.png" alt="logo"/>
+      <h1 class="animate__animated animate__pulse">Salon Vesterbro</h1>
+      </header>
+      <nav>
+        <ul>
+          <li>
+            <a class="active-nav" href="index.html" >Forside</a>
+            <a href="book.html" >Book tid</a>
+            <a href="findos.html">Find os</a>
+            <a href="om.html">Om os</a>
+            <a href="#kontakt">Kontakt</a>
+          </li>
+        </ul>
+      </nav>
+      <article >
+        <h2 >Her kan du læse mere om os</h2>
+        <p>
+          Salon Vesterbro er en herrefrisør med beliggenhed i hjertet af Odense. Salonen har ligget her siden 2008 og her bestræber vi os på at yde den bedste service vi kan. Du bliver velkommet i vores lille butik med god energi, og god komfort i form af nye og lækre italianske frisørstole. Du er også velkommen til at få en kop kaffe eller købe en Redbull.<br><br>Vi tilbyder herreklip, skæg, voksbehandling og hårvask.<br>
+        </p>
+        <a class="button animate__animated animate__shakeY animate__delay-5s" href="https://www.facebook.com/profile.php?id=100063505722383">book tid</a>
+      </article>
+      <section id="salon-pic">
+        <!-- Her kommer slideren  -->
+      <div class="slider-container">
+      <figure class="slide fade">
+          <img src="/img/Design uden navn.png" alt="Et billede">
+          <h2 class="text"></h2>
+      </figure>
+      <figure class="slide fade">
+          <img src="/img/Design uden navn (1).png" alt="Et billede">
+          <h2 class="text"></h2>
+      </figure>
+      <figure class="slide fade">
+          <img src="/img/Design uden navn (2).png" alt="Et billede">
+          <h2 class="text"></h2>
+      </figure>
+      <figure class="slide fade">
+          <img src="/img/Design uden navn (3).png" alt="Et billede">
+          <h2 class="text"></h2>
+      </figure>
+      <figure class="slide fade">
+          <img src="/img/hairccut-sv-odense.png" alt="Et billede">
+          <h2 class="text"></h2>
+      </figure>
+      <figure class="slide fade">
+          <img src="/img/Design uden navn (6).png" alt="Et billede">
+          <h2 class="text"></h2>
+      </figure>
+      <figure class="slide fade">
+          <img src="/img/Design uden navn (7).png" alt="Et billede">
+          <h2 class="text"></h2>
+      </figure>
+      <!-- previous og next knap -->
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+    <div class="dots">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+      <span class="dot" onclick="currentSlide(4)"></span>
+      <span class="dot" onclick="currentSlide(5)"></span>
+      <span class="dot" onclick="currentSlide(6)"></span>
+      <span class="dot" onclick="currentSlide(7)"></span>
+    </div>
+  <!-- Slut på slideren -->
+      </section>
+      <section class="om-os">
+        <h2>Her skal der kommer noget info eller lign.</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, assumenda dolorum asperiores illo ea veritatis, facilis est consectetur aspernatur incidunt recusandae nemo voluptatem accusantium corporis placeat dignissimos saepe ipsam et!</p>
+      </section>
+      <section class="kontaktform" id="kontakt">
+        <h2>Kontaktformular</h2>
+        <p>Eventuelle spørgsmål er meget velkomne!</p>
+        <form id="form">
+          <label for="name">Navn
+            <input type="text" name="name" id="name" placeholder="Hans Hansen">
+          </label>
+          <label for="email">E-mail
+            <input type="text" name="email" id="email" placeholder="h.hansen@mail.com">
+          </label>
+          <label for="phone">Tlf nr.
+            <input type="number" name="phone" id="telefon" placeholder="+45 23 45 67 89">
+          </label>
+          <label for="time">Dato & tid
+          <input type="datetime-local" name="time" id="tid">
+          </label>
+          <label for="message">Skriv besked
+          <input type="text" name="message" id="" cols="30" rows="10" placeholder="Skriv din besked her..">
+          </label>
+          <button type="submit" id="submit">Send</button>
+          <p id="errorMsg"></p>
+        </form> 
+      </section>
+      <!-- footer starter her -->
+      <footer>
+        <ol id="info">
+          <h2>Salon Vesterbro</h2>
+          <li>Vesterbro 25 - 5000 Odense C</li>
+          <li>Tlf: 2729 0502</li>
+          <li>info@salonvesterbro.dk</li>
+        </ol>
+        <ol id="åben">
+          <h2>Åbeningstider</h2>
+          <li>Mandag til fredag:
+            9.30 - 17.30</li>
+            <li> Lørdag:
+              09.30 - 14.30</li>
+              <li> Søndag:
+                Lukket</li>
+              </ol>
+              <section class="fa">
+                <a href="https://www.facebook.com/profile.php?id=100063505722383&sk=photos" class="fa fa-facebook"></a>
+                <a href="https://www.instagram.com/salonvesterbro/" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+              </section>
+              <figure class="mobilpay">
+                <img src="/img/MP_RGB_NoTM_Logo+Type Horisontal White.png" alt="">
+            </figure>
+              <small>
+                <img src="/img/hd webdesign logo hvid-kopi.png" alt="HD Webdesign">
+              </small>
+              <a href=#top class="back-btn">&#10548</a>
+            </footer>
+          </div>
+  </body>
+</html>

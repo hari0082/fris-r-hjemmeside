@@ -1,0 +1,43 @@
+.om-os {
+    margin: 100px 50px;
+}
+
+.andet{
+    margin: 100px 50px;
+}
+
+/* Profil */
+
+.card {
+    display: flex;
+    flex-wrap: end;
+    margin: 50px;
+    background-color: var(--hover-color);
+    color: var(--white-color);
+}
+
+.profiltext {
+    display: flex;
+    margin: 20px;
+}
+
+#pb {
+    width: 20%;
+}
+
+/* mobil */
+
+@media only screen and (max-width: 700px){
+    .card {
+    display: inline-flex;
+    flex-wrap: wrap-reverse;
+}
+.profiltext {
+    display: flex;
+    margin: 10px;
+}
+
+#pb {
+    width: 100%;
+}
+}
